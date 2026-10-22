@@ -1,0 +1,6 @@
+{
+  "name": "Ustoz Jurnali - Mamazulunov Nurmuhammad",
+  "description": "Talabalar davomati, darsda bor-yo'q qilish, kech qolishlar hisobi, qayta topshirish (otrabotka), mustaqil ta'lim va kalendar reja jurnali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
